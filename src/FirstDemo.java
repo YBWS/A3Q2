@@ -58,14 +58,8 @@ public class FirstDemo {
 		
 		System.out.print("What is school average?");
 		schoolaverage=userInput.next();
+
 		
-
-		System.out.println("\n"+"Your name is: "+firstname+lastname);
-		System.out.println("\n"+"Grade(9-12): "+grade);
-		System.out.println("\n"+"Student ID: "+studentID);
-		System.out.println("\n"+"Login: "+login);
-		System.out.println("\n"+"School Average: "+schoolaverage+"%");
-
 	    userInput.close();
 	
 
